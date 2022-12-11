@@ -1,0 +1,2 @@
+Hello wordcount!
+Hello Hadoop!
